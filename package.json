@@ -22,8 +22,8 @@
   "author": "Merott Movahedi <merott@merott.com>",
   "license": "MIT",
   "peerDependencies": {
-    "ng2workspace": "../ng2workspace",
-    "ng2workspace-addon-webpack": "../ng2workspace-addon-webpack"
+    "ng2workspace": "0.0.1",
+    "ng2workspace-addon-webpack": "0.0.1"
   },
   "dependencies": {
     "tslint": "^3.4.0",
